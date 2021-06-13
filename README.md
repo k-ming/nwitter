@@ -1,6 +1,6 @@
 # Nwitter
 
-This project is Twitter Clone on NomadAcademy with React, Firevbase.
+This project is Twitter Clone on NomadAcademy with React, Firebase.
 
 ## Course Note
 
