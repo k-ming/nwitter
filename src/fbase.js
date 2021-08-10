@@ -3,14 +3,6 @@ import "firebase/auth";
 import "firebase/firestore";
 import "firebase/storage";
 
-// var firebaseConfig = {
-//   apiKey: "AIzaSyBDvKa3i3grCE43CYnLdaa8fomuETnqUeg",
-//   authDomain: "nwitter-9a4d3.firebaseapp.com",
-//   projectId: "nwitter-9a4d3",
-//   storageBucket: "nwitter-9a4d3.appspot.com",
-//   messagingSenderId: "406457704686",
-//   appId: "1:406457704686:web:1d355db72c37bd869cd3ff"
-// };
 
 
 const firebaseConfig = {
